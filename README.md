@@ -2,7 +2,7 @@
 
 A great library to load staging data into local applications.
 
-#Installation
+ **Installation**
 
 ``git clone https://github.com/muffrank/stagetolocal.git`` 
 
@@ -17,6 +17,6 @@ Open *stage.py* and replace these lines:
 ``STAGE_URL = "http://example.com/"``
 
 
-#Run
+ **Run**
 
 ``python stage.py``
